@@ -1,5 +1,5 @@
-def batch_badge_creator(array)
-  badge_maker.each do |name|
+def badge_maker(array)
+  array.each do |name|
   end
 end
 
